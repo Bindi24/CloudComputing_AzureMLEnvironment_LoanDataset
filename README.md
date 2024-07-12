@@ -1,1 +1,1 @@
-AutomatedML and Pipeline Machine Learning Models created in Cloud Computing Platform - Azure Environment
+AutomatedML and Pipeline Machine Learning Models created in Azure Environment (Classification Model)
