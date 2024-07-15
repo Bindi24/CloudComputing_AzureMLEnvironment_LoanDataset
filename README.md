@@ -1,6 +1,7 @@
 AutomatedML and Pipeline Machine Learning Models created in Azure Environment (Classification Model)
 
-#Introduction
+# Introduction
+
 The loan approval dataset is a collection of financial records and associated information used to determine the eligibility of individuals or organisations for obtaining loans from a institution. It includes various factors such as cibil score, income, employment status, loan term, loan amount, assets value, and loan status. The dataset is used in machine learning and data analysis to develop models and algorithms that predict the likelihood of the loan approval based on the features.
 
 Problem Statement:
