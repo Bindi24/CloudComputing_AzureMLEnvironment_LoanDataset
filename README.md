@@ -18,7 +18,7 @@ Automating the loan eligibility process using machine learning algorithms based 
 
 Objective:
 
-This Project tries to predict whether the loan will be approved for an individual or not on the basis of features such as cibil score, education level, annual income etc.
+This Project creates AutomatedML and Pipeline in Azure Environment and predict whether the loan will be approved for an individual or not on the basis of features such as cibil score, education level, annual income etc.
 
 #Data Imported in Azure Environment
 
