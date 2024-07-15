@@ -3,8 +3,6 @@ AutomatedML and Pipeline Machine Learning Models created in Azure Environment (C
 #Introduction
 The loan approval dataset is a collection of financial records and associated information used to determine the eligibility of individuals or organisations for obtaining loans from a institution. It includes various factors such as cibil score, income, employment status, loan term, loan amount, assets value, and loan status. The dataset is used in machine learning and data analysis to develop models and algorithms that predict the likelihood of the loan approval based on the features.
 
-![image](https://github.com/user-attachments/assets/c1dde5df-5e0a-4855-ae95-9902120aca49)
-
 Problem Statement:
 
 Dream Housing Finance company deals in all home loans. They have a presence across all urban, semi-urban, and rural areas. Customer-first applies for a home loan after that company validates the customer eligibility for a loan.
